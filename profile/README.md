@@ -1,5 +1,6 @@
-## Kel Cuprum инфострукту![Frame 1](https://github.com/kel-cu-infostructure/.github/assets/86980879/00cd0a51-84c9-4c57-9fd0-0bedfd9781b0)
+## Инфоструктура Kel Cuprum
 
+![Frame 1](https://github.com/kel-cu-infostructure/.github/assets/86980879/00cd0a51-84c9-4c57-9fd0-0bedfd9781b0)
 
 <svg width="767" height="84" viewBox="0 0 767 84" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <rect width="767" height="84" rx="8" fill="url(#paint0_linear_20_2)"/>
