@@ -1,4 +1,4 @@
-## Инфоструктура Kel Cuprum
+## Инфраструктура Kel Cuprum
 
 ![Frame 1](https://github.com/kel-cu-infostructure/.github/assets/86980879/00cd0a51-84c9-4c57-9fd0-0bedfd9781b0)
 
